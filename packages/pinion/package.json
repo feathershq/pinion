@@ -57,7 +57,7 @@
     "@types/inquirer": "^9.0.7",
     "chalk": "^5.4.1",
     "commander": "^13.0.0",
-    "inquirer": "^12.3.0",
+    "inquirer": "^9.3.2",
     "tsx": "^4.19.2"
   },
   "devDependencies": {
